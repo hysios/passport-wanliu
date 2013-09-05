@@ -2,11 +2,18 @@
   "name": "passport-wanliu",
   "version": "0.0.1",
   "description": "Wanliu authentication strategy for Passport",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredhanson/passport-facebook.git"
+  },
+  "main": "./lib",
+  "author": {
+    "name": "Hysios Hu",
+    "email": "hysios@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "passport-oauth2": "~1.1.0"
