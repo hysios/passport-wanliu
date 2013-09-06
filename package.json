@@ -1,13 +1,13 @@
 {
   "name": "passport-wanliu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wanliu authentication strategy for Passport",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-facebook.git"
+    "url": "git@github.com:hysios/passport-wanliu.git"
   },
   "main": "./lib",
   "author": {
